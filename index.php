@@ -1,3 +1,4 @@
+<!--Note: Heroku doesn't allow deployment of non-backend file extensions, i.e. .html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
