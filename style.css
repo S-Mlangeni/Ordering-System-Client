@@ -6,7 +6,7 @@
 .main-wrapper{
     display: flex;
     justify-content: center;
-    background-color:rgba(0, 0, 0, 0.5);
+    background-color:rgba(0, 0, 0, 0.6);
     min-height: 100vh;
     background-image: url("public/drinks.jpg");
     background-repeat: no-repeat; /* Eliminates image repetition */
