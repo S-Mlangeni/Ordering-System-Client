@@ -47,6 +47,7 @@ input {
 
 button:hover {
     cursor: pointer;
+	background-color: white;
 }
 
 h1 {
